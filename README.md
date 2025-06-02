@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli" alt="Tech icons"/>
 </p>
-<p align="center">
+<p align="left">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
   <img alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
@@ -34,6 +34,9 @@
   <img alt="keras" src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img alt="archlinux" src="https://img.shields.io/badge/archlinux-1793D1?style=flat&logo=archlinux&logoColor=white" />
+  <img alt="freebsd" src="https://img.shields.io/badge/freebsd-AB2B28?style=flat&logo=freebsd&logoColor=white" />
 </p>
 
 ---
