@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli" alt="Tech icons"/>
 </p>
-
 <p align="center">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
