@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Open source lover ❤️</h3>
 
 <p align="center">
-  <a href="https://github.com/Mehdiakha?tab=followers">
+  <a href="https://github.com/Mehdiakha">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mehdiakhabbar?style=flat&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/mehdi-akhabbar-1760bb231/">
@@ -15,6 +15,8 @@
 ### 🌱 I’m currently learning
 
 - Machine Learning & Neural Networks
+- DevOps
+- Advanced python and typescript
   
 ---
 
