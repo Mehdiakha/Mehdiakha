@@ -22,13 +22,22 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,powershell,bash,git,python,aws,docker,awscli" />
+  <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli"/>
 </p>
 
 <p>
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+<img alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+<img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+<img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img alt="keras" src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" />
+<img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
+
+![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Mehdiakha&theme=react-dark&area=true&hide_border=true)
+<h1 align="center">Hey there, I'm Mehdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand" /></h1>
 
 ### ⚡ Fun Fact
 
