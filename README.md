@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mehdi 👋</h1>
-<h3 align="center">Backend Developer | Network Enthusiast | Linux Lover</h3>
+<h3 align="center">Software Developer | Open source & Linux/Unix lover <3 </h3>
 
 <p align="center">
   <a href="https://github.com/mehdi123">
