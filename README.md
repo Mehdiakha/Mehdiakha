@@ -22,7 +22,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli" />
+  <img src="https://skillicons.dev/icons?i=arch,freebsd,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli" />
 </p>
 
 <p>
