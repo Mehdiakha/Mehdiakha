@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Mehdi 👋</h1>
 <h3 align="center">Software Developer | Open source lover <3 </h3>
----
 
 ### 🌱 I’m currently learning
 
@@ -22,8 +21,3 @@
 <img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
-
-
-### ⚡ Fun Fact
-
-I run Arch btw and swear by minimal setups! 😎
