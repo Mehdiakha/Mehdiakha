@@ -17,14 +17,12 @@
 
 ### 🌱 I’m currently learning
 
-- Networking & Security fundamentals
-- Advanced JavaScript backend development
-- PostgreSQL and database design
+- Machine learning & Neural Networks
 
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,postgres,linux,vim,bash,git,python,aws,docker,awscli" />
+  <img src="https://skillicons.dev/icons?i=arch,neovim,R,js,nodejs,postgres,linux,vim,bash,git,python,aws,docker,awscli" />
 </p>
 
 <p>
