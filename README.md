@@ -2,19 +2,10 @@
 <h3 align="center">Software Developer | Open source lover ❤️</h3>
 
 <p align="center">
-  <a href="https://github.com/mehdiakhabbar">
-    <img src="https://komarev.com/ghpvc/?username=mehdiakhabbar" alt="page views" />
-  </a>
-  <a href="https://mehdiakhabbar.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmehdiakhabbar.com">
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/yourid?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/mehdiakhabbar?tab=followers">
+  <a href="https://github.com/Mehdiakha?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mehdiakhabbar?style=flat&logo=github">
   </a>
-  <a href="https://linkedin.com/in/mehdiakhabbar">
+  <a href="https://www.linkedin.com/in/mehdi-akhabbar-1760bb231/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -24,9 +15,7 @@
 ### 🌱 I’m currently learning
 
 - Machine Learning & Neural Networks
-- Kubernetes and DevOps tooling
-- Advanced Python & Go programming
-
+  
 ---
 
 ### 🛠️ Languages and Tools
@@ -50,10 +39,8 @@
 
 ### 🔭 About Me
 
-- :office: Currently working on personal projects & open-source contributions  
-- :seedling: Running a homelab focused on automation and container orchestration  
-- :speech_balloon: Love discussing Kubernetes, DevOps, and OSS ecosystems  
-- :book: Sharing knowledge via my [blog](https://mehdiakhabbar.com/blog)  
+- :office: Currently working on personal projects & open-source contributions    
+- :speech_balloon: Love discussing security, new technologies, and OSS ecosystems  
 - :mailbox: Feel free to reach out via GitHub issues or LinkedIn  
 
 
