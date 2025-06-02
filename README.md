@@ -30,15 +30,6 @@
   <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mehdi123&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi123&theme=tokyonight" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 I run Arch Linux and swear by minimal setups! 😎
