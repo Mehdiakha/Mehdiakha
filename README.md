@@ -37,7 +37,6 @@
 </p>
 
 ![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Mehdiakha&theme=react-dark&area=true&hide_border=true)
-<h1 align="center">Hey there, I'm Mehdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand" /></h1>
 
 ### ⚡ Fun Fact
 
