@@ -1,26 +1,4 @@
-<h1 align="center">Hey, I'm Mehdi 👋</h1>
-<h3 align="center">Software Developer | Open Source & Privacy Advocate ❤️</h3>
-
-<p align="center">
-  <a href="https://github.com/Mehdiakha">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mehdiakhabbar?style=flat&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/mehdi-akhabbar-1760bb231/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🌱 I’m currently learning
-
-- Machine Learning & Neural Networks
-- DevOps
-- Advanced python and typescript
-  
----
-
-### 🛠️ Languages and Tools
+hey, I'm mehdi :)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli" alt="Tech icons"/>
