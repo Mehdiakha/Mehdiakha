@@ -1,7 +1,7 @@
 hey, I'm mehdi :)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli,typescript,react,nextjs,tailwindcss,graphql,mongodb,kubernetes,terraform,redis,express,mysql,rust,go,java,nginx" alt="Tech icons" />
+<img src="https://skillicons.dev/icons?i=arch,neovim,js,nodejs,htmx,django,fastapi,postgres,linux,vim,bash,git,python,aws,docker,awscli,typescript,react,nextjs,tailwindcss,graphql,mongodb,kubernetes,terraform,redis,express,mysql,rust,go,java" alt="Tech icons" />
 </p>
 
 
