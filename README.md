@@ -5,7 +5,7 @@ hey, I'm mehdi :)
 </p>
 
 
-<p align="center">
+<p align="left">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
   <img alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
