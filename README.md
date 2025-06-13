@@ -25,6 +25,6 @@ hey, I'm mehdi :)
 
 - :office: Currently working on personal projects & open-source contributions    
 - :speech_balloon: Love discussing security, new technologies, and OSS ecosystems  
-- :mailbox: Feel free to reach out via GitHub issues or LinkedIn  
+
 
 
